@@ -15,3 +15,14 @@ npm notice created a lockfile as package-lock.json. You should commit this file.
 added 4 packages in 1.843s
 ```
 Success!  
+
+  
+  The execution
+===============
+0.--set up `command prompt`--  
+```
+1.>cd example  
+2.>node index.js >> result.txt
+```  
+Check result.txt to generate!
+
